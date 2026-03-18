@@ -49,7 +49,7 @@ Enhanced efficiency by providing centralized dashboards and automated data handl
 ### 📊 Admin & Management
 | Clients | Sales Executive | Vendor Management |
 |--------|----------------|------------------|
-| ![](images/Clients_Page.png) | ![](images/SalesExecutive_Page.png) | ![](images/Vendor_Management.png) |
+| ![](images/Clients_Page.png) | ![](images/SalesEecutive_Page.png) | ![](images/Vendor_Management.png) |
 
 ---
 
